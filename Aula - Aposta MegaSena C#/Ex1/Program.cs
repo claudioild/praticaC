@@ -13,7 +13,7 @@ namespace Ex1
             int[] resultado = new int[6];
             int contResult = 0;
             int parada=0;
-            Console.WriteLine("Digite o resultado do sorteio: ");
+            Console.WriteLine("Digite o resultado da MegaSena: ");
             while(contResult<6)
             {
                 int numAposta = Int32.Parse(Console.ReadLine());
