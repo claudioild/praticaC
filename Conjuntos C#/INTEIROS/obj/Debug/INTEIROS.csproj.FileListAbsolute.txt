@@ -6,3 +6,11 @@ C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.csproj.SuggestedB
 C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.exe
 C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.pdb
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\bin\Debug\INTEIROS.exe.config
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\bin\Debug\INTEIROS.exe
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\bin\Debug\INTEIROS.pdb
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\obj\Debug\INTEIROS.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\obj\Debug\INTEIROS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\obj\Debug\INTEIROS.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\obj\Debug\INTEIROS.exe
+C:\Users\Cliente\Desktop\REPOSITÓRIO\Conjuntos C#\INTEIROS\obj\Debug\INTEIROS.pdb

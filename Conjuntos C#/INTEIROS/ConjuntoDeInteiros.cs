@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -60,32 +61,43 @@ namespace INTEIROS
             }
             return booleanosIntersec;
         }
-        public bool[] insereElemento(int numInserido)
+        public bool[] insereElementoBool1(int numInserido)
         {
             booleanos1[numInserido] = true;
             return booleanos1;
         }
-        public bool[] deletaElemento(int numDeletado)
+        public bool[] insereElementoBool2(int numInserido)
+        {
+            booleanos2[numInserido] = true;
+            return booleanos1;
+        }
+        public bool[] deletaElementoBool1(int numDeletado)
         {
             booleanos1[numDeletado] = false;
+            return booleanos1;
+        }
+        public bool[] deletaElementoBool2(int numDeletado)
+        {
+            booleanos2[numDeletado] = false;
             return booleanos1;
         }
 
         public string toSetString(bool[] booleanos)
         {
-            int [] inteiros = new int [11];
+            int [] inteiros = new int [11] {0,0,0,0,0,0,0,0,0,0,0 };
             string listaNum = "";
+            int x = 0;
+            
             for (int i = 0; i <= 10; i++)
             {
-                if (booleanos[i] = true)
+                if (booleanos[i] == true)
                 {
-                    listaNum += i;
+                    listaNum += " "+i;
                 }
-                else
+                else if (booleanos[i] == false)
                 {
                     listaNum += " - ";
                 }
-                
             }
             return listaNum;
         }
@@ -98,14 +110,15 @@ namespace INTEIROS
                 {
                     contIgualdade++;
                 }
-                if(contIgualdade == 11)
-                {
-                    Console.WriteLine("Os conjuntos são iguais");
-                }
-                else
-                {
-                    Console.WriteLine("Os conjuntos não são iguais");
-                }
+               
+            }
+            if (contIgualdade == 11)
+            {
+                Console.WriteLine("Os conjuntos são iguais");
+            }
+            else
+            {
+                Console.WriteLine("Os conjuntos não são iguais");
             }
         }
     }
