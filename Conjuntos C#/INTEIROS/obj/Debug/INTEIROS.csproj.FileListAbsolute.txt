@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\bin\Debug\INTEIROS.exe.config
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\bin\Debug\INTEIROS.exe
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\bin\Debug\INTEIROS.pdb
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.exe
+C:\Users\Aluno\source\repos\EXNOTA\INTEIROS\obj\Debug\INTEIROS.pdb
